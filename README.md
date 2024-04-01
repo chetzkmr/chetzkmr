@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Chethan</h1>
 <h3 align="center">Welcome to my data-driven realm! 👨‍💻 As a passionate Data Analyst, I embark on journeys through the vast landscapes of information, transforming raw data into meaningful insights.
 </h3>
-<div style="position: relative;">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding" width="400" style="position: absolute; right: 0; top:-20px;">
-</div>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 ## 📊 About Me
 
 Certified in the art of deciphering patterns and trends, I thrive on the challenges of data manipulation, statistical analysis, and visualization. Armed with a formidable toolkit including Python, SQL, Power BI, and Excel, I am on a quest to unveil the untold stories hidden within datasets.
